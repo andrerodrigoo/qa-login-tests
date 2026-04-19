@@ -14,6 +14,12 @@ Passos:
 Resultado esperado:
 Usuário deve acessar o sistema com sucesso
 
+Resultado atual:
+Login realizado com sucesso
+
+Status:
+PASSOU
+
 ---
 
 ## TC002 - Senha incorreta
