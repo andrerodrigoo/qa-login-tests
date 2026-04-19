@@ -32,6 +32,12 @@ Passos:
 Resultado esperado:
 Sistema deve exibir mensagem de erro
 
+Resultado atual:
+...
+
+Status:
+PASSOU
+
 ---
 
 ## TC003 - Usuário inválido
@@ -61,6 +67,12 @@ Passos:
 Resultado esperado:
 Sistema deve exigir preenchimento
 
+Resultado atual:
+...
+
+Status:
+PASSOU
+
 ---
 
 ## TC005 - Senha muito longa
@@ -71,3 +83,9 @@ Passos:
 
 Resultado esperado:
 Sistema deve bloquear login
+
+Resultado atual:
+...
+
+Status:
+PASSOU
