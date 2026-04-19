@@ -44,6 +44,12 @@ Passos:
 Resultado esperado:
 Sistema deve bloquear acesso
 
+Resultado atual:
+Mensagem exibida: "Seu nome de usuário é inválido"
+
+Status:
+PASSOU
+
 ---
 
 ## TC004 - Campos vazios
